@@ -13,15 +13,16 @@
 - **[Film Finder](https://github.com/manishjitta/Film-Finder)** - A React-based movie search app with real-time filtering  
 
 ## 🎓 Coding Profiles  
-<a href="https://www.leetcode.com/jittamanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jittamanish" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/techtrekker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="techtrekker" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/techtrekker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="techtrekker" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jittamanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jittamanish" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/techtrekker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="techtrekker" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jittamanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jittamanish" height="30" width="40" /></a>
 
 
 
 ## 👨‍💻 Connect With Me  
 **manish020804@gmail.com**  
+
 <a href="https://linkedin.com/in/manishkumarjitta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishkumarjitta" height="30" width="40" /></a>
 
 ## 🔧 Languages and Tools  
@@ -38,6 +39,6 @@
 </p>
 
 ## 📊 GitHub Stats  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkumarjitta&show_icons=true&locale=en&layout=compact" alt="manishkumarjitta" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkumarjitta&" alt="manishkumarjitta" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishjitta&show_icons=true&locale=en&layout=compact" alt="manishjitta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishjitta&" alt="manishjitta" /></p>
 
